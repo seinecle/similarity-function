@@ -1,0 +1,5 @@
+journal 1,A,B
+journal 2,B,C
+journal 3,D,E,F
+journal 4,D,E
+journal 5,D,A
